@@ -9,5 +9,5 @@ function factorial(n) {
     result *= i;
   }
 
-  return result;
+  return result; 
 }
