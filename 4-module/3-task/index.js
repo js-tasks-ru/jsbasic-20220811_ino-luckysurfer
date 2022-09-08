@@ -20,3 +20,4 @@ function highlight(table) {
     if (cellAge.textContent < 18) row.style.textDecoration = "line-through";
   }
 }
+
